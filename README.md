@@ -1,6 +1,6 @@
 # [Huntcraft-SMP](https://modrinth.com/modpack/huntcraft)
 
-The optional client-side modpack the Huntcraft SMP.  You can also use this modpack on servers, as the default configuration has no unfair advantages.<br>
+The optional client-side modpack the Huntcraft SMP.  You can also use this modpack on other servers, as the default configuration has no unfair advantages.<br>
 
 You are free to distribute this modpack, as per the MIT License, but I do ask that you give credit and link to the [Modrinth Page]()
 
