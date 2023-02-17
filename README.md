@@ -1,7 +1,14 @@
-# [Huntcraft-SMP](https://modrinth.com/modpack/huntcraft)
+# Huntcraft SMP
 
-The optional client-side modpack the Huntcraft SMP.  You can also use this modpack on other servers, as the default configuration has no unfair advantages.<br>
+Information about a certain semi-private, server-side modded Minecraft server.  (Server-side mdos are like plugins).
 
-You are free to distribute this modpack, as per the MIT License, but I do ask that you give credit and link to the [Modrinth Page]()
+## Modpack Info
 
-Check out the [Wiki](https://github.com/LuciusofLegend/Huntcraft-Client/wiki) or join the [Discord](https://discord.gg/MyxagkAe) for more info.
+There is an optional client-side modpack for the SMP, which gives features such as a world map, proximity chat and an FPS boost.  You can also use this client on other servers, at least in the default configuration.  It contains no unfair advantages as I see it.
+
+Both the [Server]() and [Client]() modpacks are available for download.  You are free to distribute these modpacks, as per the MIT License, but I do ask that you give credit and link back to the respective Modrinth page.  Thank you!
+
+## Joining the Server
+
+If you want to play on Huntcraft itself, please join the [Discord Server](https://discord.gg/MyxagkAe) and request to be whitelisted.
+
